@@ -1,4 +1,5 @@
 *~
+*.pyc
 venv
 project/media/*
 project/static/*
